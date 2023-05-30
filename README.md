@@ -13,6 +13,6 @@
 
   - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-antonio-brocardo-8712bb1b6/)
   
-  - [![Replit](https://replit.com/@DavidBrocardo)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrocardo&langs_count=8)](https://github.com/DavidBrocardo/github-readme-stats)
