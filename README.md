@@ -15,4 +15,3 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBrocardo&langs_count=8)](https://github.com/DavidBrocardo/github-readme-stats)
