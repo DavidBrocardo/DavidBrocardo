@@ -1,7 +1,7 @@
 
 ## Hi! I'm David Antonio Brocardo 👋
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidBrocardo&show_icons=true&theme=dracula&count_private=true)
+
 
 * #### Studying Computer Science at the Universidade Estadual do Oeste do Paraná (Unioeste), Campus Cascavel. (2021 - Now)
 
