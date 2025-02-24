@@ -3,9 +3,9 @@
 
 
 
-* #### Studying Computer Science at the Universidade Estadual do Oeste do Paraná (Unioeste), Campus Cascavel. (2021 - Now)
+* #### Studying Computer Science at the State University of West Paraná (Unioeste), Campus Cascavel. (2021 - Now)
 
-* #### Graduated in Computer Technician by Instituto Federal do Paraná (IFPR) , Campus Cascavel  (2017-2020)
+* #### Graduated in Computer Technician by Federal Institute of Paraná (IFPR) , Campus Cascavel  (2017-2020)
 
 * ##### **Social media links and accounts:**
 
