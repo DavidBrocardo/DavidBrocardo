@@ -1,7 +1,7 @@
 # 👋 Hey, welcome to my GitHub!
 
 ### I'm **David Antonio Brocardo**  
-💻 Passionate about **technology**, **development**, and always chasing the next challenge.  
+💻 **Full-Stack Developer**.  
 📚 Currently studying **Computer Science** at the **State University of West Paraná (Unioeste)** – Campus Cascavel (2021 - Now).  
 🎓 Graduated as **Computer Technician** by **Federal Institute of Paraná (IFPR)** – Campus Cascavel (2017 - 2020).  
 
