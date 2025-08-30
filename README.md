@@ -30,8 +30,13 @@
 ## 🌎 Let's connect!  
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/3241febf-4582-4fe7-a3ac-e7a0c83e7f56" width="60" href="https://www.instagram.com/brocardo_david/"/>  
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" href="https://www.linkedin.com/in/david-antonio-brocardo-8712bb1b6/"/>  
+<a href="https://www.instagram.com/brocardo_david/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3241febf-4582-4fe7-a3ac-e7a0c83e7f56" width="60"/>
+</a>  
+
+<a href="https://www.linkedin.com/in/david-antonio-brocardo-8712bb1b6/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/8f798a85-4bda-42d8-ad58-c42040e0b6a8" width="60"/>
+</a>  
 
 </div>
 
